@@ -1,12 +1,24 @@
 
 <h1 align="center">
+ 
+ ![pjl](https://user-images.githubusercontent.com/114100988/218262913-52c9c69d-1e19-459a-ae07-e25097f73bf7.png)
 
-POKÉDEX.API
+
+
 </h1>
 
 <h2 align="center"> O QUE É PARA SER ENTREGUE? :memo:
  </h2>
 <h3 align="center">FAZER UMA POKÉDEX USANDO A API https://pokeapi.co/.  </h3>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <h3>FERRAMENTAS UTILIZADAS 🛠️:</h3>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+   <br> 
+</div>
 
 
 <h3 align="center"> HTML 👨🏽‍💻: </h3>
